@@ -1,0 +1,4 @@
+hozoea    Monday Tuesday Wednesday Thursday
+Samson    x       x       x
+Mark      x               x         x
+Kenneth           x       x
