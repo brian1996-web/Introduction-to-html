@@ -1,0 +1,5 @@
+hozoea    Monday Tuesday Wednesday Thursday
+Gerald    x       x       x
+Winnie    x               x         x
+Derrick           x       x
+Golola    x               x         x 
